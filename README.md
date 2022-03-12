@@ -4,4 +4,12 @@ Este repositório foi criado para armazenar a implementação de Kafka + Micro-S
 de Node, Serviços de Messagerias e Micro-Serviços.
 <br/>
 <hr>
-Este código **não** está finalizado.
+Este código <strong> não </strong> está finalizado.
+
+<br/>
+<hr>
+## Se desejar clonar este repositório :
+
+Mova os arquivos para um local apropriado quando clocar;
+Execute o  yarn para instalar as dependencias.
+Execute  yarn start.
