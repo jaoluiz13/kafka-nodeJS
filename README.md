@@ -8,9 +8,11 @@ de Node, Serviços de Messagerias e Micro-Serviços.
 
 ## Se desejar clonar este repositório
 
-Mova os arquivos para um local apropriado quando clocar;
-Execute o  yarn para instalar as dependencias.
-Execute  yarn start.
+Mova os arquivos para um local apropriado quando clonar;
+<br/>
+Execute o  yarn para instalar as dependencias;
+<br/>
+Execute  yarn start
 
 <br/>
 <hr>
