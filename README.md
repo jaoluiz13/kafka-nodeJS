@@ -4,4 +4,4 @@ Este repositório foi criado para armazenar a implementação de Kafka + Micro-S
 de Node, Serviços de Messagerias e Micro-Serviços.
 <br/>
 <hr>
-Este código *não* está finalizado.
+Este código **não** está finalizado.
